@@ -8,3 +8,4 @@ To do list:
 - finally, if someone could take on checking if it's two words stuck together, or a word/common password with some numbers of characters at the end that would be amazing
 - modify the code for the stress test indicator to be more complex (Nguyen's got this.)
 - need to modify code to be less redundant
+- need to turn list into array
